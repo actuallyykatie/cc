@@ -1,7 +1,7 @@
+/*
+## easy: 175. Combine Two Tables
 
-### 175. Combine Two Tables
-
-#### TASK: 
+### TASK: 
 
 Table: `Person`
 
@@ -29,19 +29,18 @@ Table: `Address`
 Write a SQL query for a report that provides the following information for each person in the Person table, regardless if there is an address for each of those people:
 
     FirstName, LastName, City, State
+*/
 
-#### SOLUTION: mysql
-
-
-    SELECT 
+-- SOLUTION: 
+SELECT 
     FirstName, 
     LastName,
     City, 
     State
-    FROM 
+FROM 
     person AS p
-    LEFT JOIN 
+LEFT JOIN 
     address AS a
-    ON
-        p.PersonId = a.PersonId
-    ;
+ON
+    p.PersonId = a.PersonId
+;
