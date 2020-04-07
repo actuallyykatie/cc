@@ -9,7 +9,7 @@ My solutions to SQL coding challenges on LeetCode and HackerRank.
 
 ## leetcode
 
-<details open>
+<details close>
 <summary>easy</summary>
 
 - [175. Combine Two Tables](easy/easy_175.sql)
@@ -26,7 +26,7 @@ My solutions to SQL coding challenges on LeetCode and HackerRank.
 - [1179. Reformat Department Table](easy/easy_1179.sql)
 </details>
 
-<details open>
+<details close>
 <summary>medium</summary>
 
 - [177. Nth Highest Salary](medium/medium_177.sql)
@@ -37,7 +37,7 @@ My solutions to SQL coding challenges on LeetCode and HackerRank.
 
 </details>
 
-<details open>
+<details close>
 <summary>hard</summary>
 
 - [185. Department Top Three Salaries](hard/hard_185.sql)
@@ -50,7 +50,7 @@ My solutions to SQL coding challenges on LeetCode and HackerRank.
 ## hackerrank
 
 
-<details open>
+<details close>
 <summary>easy</summary>
 
 - [Select All](easy/3_select_all.sql)
@@ -97,7 +97,7 @@ My solutions to SQL coding challenges on LeetCode and HackerRank.
 </details>
 
 
-<details open>
+<details close>
 <summary>medium</summary>
 
 - [The PADS](medium/1_the_pads.sql)
@@ -119,7 +119,7 @@ My solutions to SQL coding challenges on LeetCode and HackerRank.
 
 </details>
 
-<details open>
+<details close>
 <summary>hard</summary>
 
 - [Interviews](hard/interviews.sql)
